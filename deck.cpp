@@ -11,7 +11,7 @@ class deck{
                 for(int j = 0; j < 4; ++j){
                     card tempCard = card(i,j);
                     cardDeck.push_back(tempCard);
-                    //cout << tempCard.cardRank << " " << tempCard.cardSuit << " " << tempCard.val <<  endl;
+                    //cout << tempCard.cardRank << " " << tempCard.cardSuit << "bruh " << tempCard.val <<  endl;
                 }
             }
         }
